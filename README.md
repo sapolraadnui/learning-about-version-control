@@ -1,2 +1,3 @@
-# learning-about-version-control
-learning-about-version-control
+# Learning about Version Control
+
+Author: Sapol (Paul) Raadnui
